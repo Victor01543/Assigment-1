@@ -1,0 +1,42 @@
+<!DOCTYPE HTML>
+
+<html>
+
+    <head>
+
+        <title>Challenge: Your learning list</title>
+
+        <meta charset="utf-8">
+
+    </head>
+
+    <body>
+        <h1>
+            Category Management
+
+        </h1>
+
+            <h2>The Category Management is an analytic process to separate and classify all the products in a counter of supermarket.
+When you go to the Walmart Store and you want a Ritz cracker, you go and stop in front to the saltine and snack crackers section. Then, you make a choice. In this section you gone see like 5 different brands.
+They are more than 2 brands;</h2>
+
+    <ol>
+        <li>Keebler</li>
+        <li>Nabisco</li>
+        <li>Another Brands</li>
+    </ol>
+  <h3>  This process is important to giving the proper space for all the products. In this category, snack & saltine crackers, the more space is for the more sales brands. At this time I’ll give you in an order of sales;
+  </h3>
+    <ol>
+        <li>Nabisco is the first on sales</li>
+        <li>Keebler is the second on sales, that is why Nabisco has more space on counter</li>
+        <li>And the rest of the category has anothers brands</li>
+
+    </ol>
+
+
+
+
+        </body>
+
+</html>
